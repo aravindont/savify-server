@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "elon",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+      "mobile": "999988880",
+      "email": "elon@gmail.com",
+      "company": "tesla",
+      "title": "CEO",
+      "groupId": "6",
+      "id": "sdsw@3d"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
