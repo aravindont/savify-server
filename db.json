@@ -1,164 +1,24 @@
 {
   "contacts": [
     {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
+      "name": "user1",
+      "photo": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "mobile": "9867769911",
       "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
+      "company": "pnb",
+      "title": "Associate",
       "groupId": "1",
       "id": 1
     },
     {
       "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
+      "photo": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "mobile": "9992221117",
       "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
+      "company": "sbi",
+      "title": "Associate",
+      "groupId": "2",
       "id": 2
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 3
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 4
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 5
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 6
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 7
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 8
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 9
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 10
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 11
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 12
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 13
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 14
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 15
-    },
-    {
-      "name": "Elon Musk",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQphOXpBUypFQgM13fZx68KTqywzG2p2y_A&usqp=CAU",
-      "mobile": "1234",
-      "email": "user1@gmail.com",
-      "company": "twitter",
-      "title": "ceo",
-      "groupId": "1",
-      "id": 16
     }
   ],
   "groups": [
